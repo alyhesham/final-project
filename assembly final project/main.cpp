@@ -214,6 +214,7 @@ int main()
     int byte4 [8000][2],byte8[4000],byte16[2000][2] ,byte32[1000][2], byte64[500][2] ,byte128[250][2];
     cacheResType r;
     
+    
     unsigned int addr;
     cout << "Cache Simulator\n";
     for (int i = 0 ; i < 5 ; i++)
